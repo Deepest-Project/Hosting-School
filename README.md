@@ -31,6 +31,13 @@ History of hosting and summer/winter school presented at Deepest
 | Neural Architecture Search | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=3%26menuid=26%26boardtype=L%26articleid=156%26referrerAllArticles=false) | - | 시즌4 Hosting |
 
 
+### Generative models 
+| 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
+| :----------------------------------------------------------: | :--: | :--: |:--: | :--: |
+| Generative model 개요 (VAE 위주) | 김성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=161%26referrerAllArticles=false) | - | 시즌3 Hosting |
+| Flow-based generative model (NICE, Real NVP, Glow) | 김성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=161%26referrerAllArticles=false) | - | 시즌4 Hosting |
+
+
 ### Reinforcement Learning
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :--: | :--: | :--: |:--: | :--: |
