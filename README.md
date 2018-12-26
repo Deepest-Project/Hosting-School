@@ -60,7 +60,7 @@ History of hosting and summer/winter school presented at Deepest
 | Object Detection (2-stage Detection, Unified Detection, Tracking) | 정찬영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=121%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Tools for Detection (Online example mining, soft NMS, bootstrapping) | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=131%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | OCR and Single Shot Detection (SSD) | 정찬영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=186%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
-| Weakly-supervised Semantic Segmentation (visualization and localization) | 김은지 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=222%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
+| Weakly-supervised Semantic Segmentation | 김은지 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=222%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
 
 
 ### Language
