@@ -16,6 +16,7 @@ History of hosting and summer/winter school presented at Deepest
 | Issues on Current Neural Networks (data structure, inductive bias) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 송종윤 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=233%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
   | RNN plus alpha (Recent overview of RNN architectures) | 이상길 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=213%26referrerAllArticles=false) | - | 시즌4 Hosting |
 
+
 ### Basic Notations/Concept/Information
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | -- | :--: | :--: |:--: | :--: |
@@ -23,12 +24,12 @@ History of hosting and summer/winter school presented at Deepest
 | Understanding Deeplearning Optimizations | 심규홍 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=22%26boardtype=L%26articleid=112%26referrerAllArticles=false)| - | 시즌3 School |
 | Information Theory Concepts | 김재현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=113%26referrerAllArticles=false)| - | 시즌3 Hosting |
 | Some Mathematical Concepts for Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 김장현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=219%26referrerAllArticles=false)| - | 시즌4 School |
+| Gaussian Process and Deep Learning | 김지현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=214%26referrerAllArticles=false%26boardtype=L%26menuid=29)| - | 시즌4 School |
 |Foward and Backward 직접 구현해보기| 김만준 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=122%26referrerAllArticles=false)| - | 시즌3 Hosting |
 | python 최적화 기법 | 남준오 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=229%26referrerAllArticles=false%26boardtype=L%26menuid=26)| - | 시즌4 Hosting |
 | 혼자서 스타트업 딥러닝 백엔드 개발하고 운영하기 | 김지현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=253%26referrerAllArticles=false%26boardtype=L%26menuid=26)| - | 시즌4 Hosting |
 | Optimization for Human (장비 관련) | 박선규 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=259%26referrerAllArticles=false%26boardtype=L%26menuid=26)| - | 시즌4 Hosting |
 | How to train your Network? (Cyclical learning rate) | 김규완 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=261%26referrerAllArticles=false%26boardtype=L%26menuid=26)| - | 시즌4 Hosting |
-| Gaussian Process and Deep Learning | 김지현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=214%26referrerAllArticles=false%26boardtype=L%26menuid=29)| - | 시즌4 Hosting |
 
 
 
