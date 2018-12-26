@@ -36,7 +36,7 @@ History of hosting and summer/winter school presented at Deepest
 ### Robustness (Uncertainty/Bayesian/Security)
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :----------------------------------------------------------: | :--: | :--: |:--: | :--: |
-| Uncertainty in Deep Learning (Yarin-Gal Thesis) | 김재명 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=133%26referrerAllArticles=false) | - | 시즌3 Hosting |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uncertainty in Deep Learning (Yarin-Gal Thesis) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 김재명 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=133%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | MCMC based Deep learning | 김재명 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=262%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
 | Poisoning Attack Introduction | 장혜미 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=252%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌3 Hosting |
 
@@ -44,14 +44,14 @@ History of hosting and summer/winter school presented at Deepest
 ### Model Compression/ Efficient Design
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :----------------------------------------------------------: | :--: | :--: |:--: | :--: |
-| Efficient Convolutional Neural Network (Squeeze/Mobile/Shuffle Net) | 최상우 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=124%26referrerAllArticles=false) | - | 시즌3 Hosting |
+|&nbsp;&nbsp; Efficient Convolutional Neural Network (Squeeze/Mobile/Shuffle Net) &nbsp;&nbsp;| 최상우 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=124%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Neural Architecture Search | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=3%26menuid=26%26boardtype=L%26articleid=156%26referrerAllArticles=false) | - | 시즌4 Hosting |
 
 
 ### Generative models 
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :----------------------------------------------------------: | :--: | :--: |:--: | :--: |
-| Generative model 개요 (VAE 위주) | 김성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=161%26referrerAllArticles=false) | - | 시즌3 Hosting |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generative model 개요 (VAE 위주) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 김성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=161%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Flow-based generative model (NICE, Real NVP, Glow) | 김성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=161%26referrerAllArticles=false) | - | 시즌4 Hosting |
 | High Resolution Variational Auto Encoder: Beyond Pixelwise Loss| 김재현 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=188%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
 
@@ -59,7 +59,7 @@ History of hosting and summer/winter school presented at Deepest
 ### Reinforcement Learning
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :--: | :--: | :--: |:--: | :--: |
-| gym 예제를 통한 강화학습 기초 | 류성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=107%26referrerAllArticles=false) | - | 시즌3 Hosting |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gym 예제를 통한 강화학습 기초 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 류성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=107%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Engineering Reinforcement Learning (피카츄 배구) | 류성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=170%26referrerAllArticles=false) | - | 시즌4 Hosting |
 | Starcraft AI Progress | 김세옥 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=258%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
 | Off-Policy Actor-Critic Algorithms | 서영교 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=260%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
