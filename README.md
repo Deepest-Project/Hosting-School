@@ -42,6 +42,7 @@ History of hosting and summer/winter school presented at Deepest
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :--: | :--: | :--: |:--: | :--: |
 | gym 예제를 통한 강화학습 기초 | 류성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=107%26referrerAllArticles=false) | - | 시즌3 Hosting |
+| Engineering Reinforcement Learning (피카츄 배구) | 류성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=170%26referrerAllArticles=false) | - | 시즌3 Hosting |
 
 
 ## Applications
@@ -51,6 +52,7 @@ History of hosting and summer/winter school presented at Deepest
 | Artistic Style Transfer (with domain translation)| 남가원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=115%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Super Resolution Overview (SRCNN, VDSR, ESPCN, SRGAN) | 이수영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=120%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Super Resolution Trends (EDSR , MS-LapSRN , VESPCN, ZSSR) | 최주헌 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=125%26referrerAllArticles=false) | - | 시즌3 Hosting |
+| Breaking Illusion on 'PSNR' | 이수영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=163%26referrerAllArticles=false) | - | 시즌4 Hosting |
 | Object Detection (2-stage Detection, Unified Detection, Tracking) | 정찬영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=121%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Tools for Detection (Online example mining, soft NMS, bootstrapping) | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=131%26referrerAllArticles=false) | - | 시즌3 Hosting |
 
@@ -75,6 +77,13 @@ History of hosting and summer/winter school presented at Deepest
 | Deep Neural Networks for Youtube Recommendation | 허재성 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=109%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Deep Learning Methods for Protein Structure Prediction | 남준오 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=128%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Deep Learning for Medical Imaging | 이상길 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=132%26referrerAllArticles=false) | - | 시즌3 Hosting |
+
+
+### 학회 요약/후기
+| 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
+| :-----: | :------------------------------------------------: | :------------------------: |:--: | :--: |
+| 2018 ICML 후기 | 허재성 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=171%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
+| 2018 CVPR 리뷰 | 디피스트 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=172%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
 
 
 
