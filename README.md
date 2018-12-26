@@ -22,6 +22,7 @@ History of hosting and summer/winter school presented at Deepest
 | 시각화와 딥러닝 | 김원재 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=69%26referrerAllArticles=false%26boardtype=L%26menuid=5)| - | 시즌2 School |
 | Understanding Deeplearning Optimizations | 심규홍 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=22%26boardtype=L%26articleid=112%26referrerAllArticles=false)| - | 시즌3 School |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Information Theory Concepts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 김재현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=113%26referrerAllArticles=false)| - | 시즌3 Hosting |
+| Some Mathematical Concepts for Machine Learning | 김장현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=219%26referrerAllArticles=false)| - | 시즌4 School |
 |Foward and Backward 직접 구현해보기| 김만준 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=122%26referrerAllArticles=false)| - | 시즌3 Hosting |
 | python 최적화 기법 | 남준오 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=229%26referrerAllArticles=false%26boardtype=L%26menuid=26)| - | 시즌4 Hosting |
 | 혼자서 스타트업 딥러닝 백엔드 개발하고 운영하기 | 김지현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=253%26referrerAllArticles=false%26boardtype=L%26menuid=26)| - | 시즌4 Hosting |
@@ -43,6 +44,7 @@ History of hosting and summer/winter school presented at Deepest
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :----------------------------------------------------------: | :--: | :--: |:--: | :--: |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uncertainty in Deep Learning (Yarin-Gal Thesis) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 김재명 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=133%26referrerAllArticles=false) | - | 시즌3 Hosting |
+| Bayesian Deep Learning Introduction | 김재명 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=217%26referrerAllArticles=false) | - | 시즌4 School |
 | MCMC based Deep learning | 김재명 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=262%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
 | Poisoning Attack Introduction | 장혜미 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=252%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌3 Hosting |
 
@@ -53,6 +55,7 @@ History of hosting and summer/winter school presented at Deepest
 |&nbsp;&nbsp; Efficient Convolutional Neural Network (Squeeze/Mobile/Shuffle Net) &nbsp;&nbsp;| 최상우 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=124%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Modular Learning and Routing | 이상길<br/> 정다흰 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=114%26referrerAllArticles=false%26boardtype=L%26menuid=22) | - | 시즌3 School |
 | Neural Architecture Search | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=3%26menuid=26%26boardtype=L%26articleid=156%26referrerAllArticles=false) | - | 시즌4 Hosting |
+| Model Compression Overview | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=219%26referrerAllArticles=false) | - | 시즌4 School |
 
 
 ### Generative models 
