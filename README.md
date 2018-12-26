@@ -19,7 +19,7 @@ History of hosting and summer/winter school presented at Deepest
 ### Meta/Metric Learning
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :----------------------------------------------------------: | :--: | :--: |:--: | :--: |
-| Deep Metric Learning Overview (Triplet loss, Faculty Location, Spectral Clustering) | 김지현 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=119%26referrerAllArticles=false) | - | 시즌3 Hosting |
+| Deep Metric Learning Overview (Facility Location, Spectral Clustering) | 김지현 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=119%26referrerAllArticles=false) | - | 시즌3 Hosting |
 
 
 ### Reinforcement Learning
