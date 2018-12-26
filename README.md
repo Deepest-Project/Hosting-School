@@ -1,10 +1,6 @@
 # Hosting-School
 History of hosting and summer/winter school presented at Deepest
 
-Go to Wiki page!
-
-Welcome to the Hosting-School wiki!
-
 ## General Algorithm/Model/Concept
 
 ### General Learning/Model
