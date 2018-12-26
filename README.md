@@ -16,7 +16,7 @@ Welcome to the Hosting-School wiki!
 ### Basic Notations/Concept
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :--: | :--: | :--: |:--: | :--: |
-|Information Theory Concepts| 김재현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=113%26referrerAllArticles=false)| - | 시즌3 Hosting |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Information Theory Concepts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 김재현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=113%26referrerAllArticles=false)| - | 시즌3 Hosting |
 |Foward and Backward 직접 구현해보기| 김만준 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=122%26referrerAllArticles=false)| - | 시즌3 Hosting |
 
 
