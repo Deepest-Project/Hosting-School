@@ -9,6 +9,7 @@ History of hosting and summer/winter school presented at Deepest
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 |  :--: | :--: | :--: |:--: | :--: |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Building Machines that That Learn and Think &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 김재현|[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=101%26referrerAllArticles=false)| - | 시즌3 Hosting |
+| Neuroscience-inspired Deep Learning | 이상길 장혜미 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=71%26referrerAllArticles=false%26boardtype=L%26menuid=5) | - | 시즌2 School |
 | The Weight Transport Problem (about BP) | 이상길 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=105%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Neo-Backpropagation, Part 2 | 이상길 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=242%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
 | Issues on Current Neural Networks (data structure, inductive bias) | 송종윤 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=233%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
@@ -17,12 +18,14 @@ History of hosting and summer/winter school presented at Deepest
 ### Basic Notations/Concept/Information
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :--: | :--: | :--: |:--: | :--: |
+| 시각화와 딥러닝 | 김원재 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=69%26referrerAllArticles=false%26boardtype=L%26menuid=5)| - | 시즌2 School |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Information Theory Concepts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 김재현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=113%26referrerAllArticles=false)| - | 시즌3 Hosting |
 |Foward and Backward 직접 구현해보기| 김만준 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=122%26referrerAllArticles=false)| - | 시즌3 Hosting |
 | python 최적화 기법 | 남준오 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=229%26referrerAllArticles=false%26boardtype=L%26menuid=26)| - | 시즌4 Hosting |
 | 혼자서 스타트업 딥러닝 백엔드 개발하고 운영하기 | 김지현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=253%26referrerAllArticles=false%26boardtype=L%26menuid=26)| - | 시즌4 Hosting |
 | Optimization for Human (장비 관련) | 박선규 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=259%26referrerAllArticles=false%26boardtype=L%26menuid=26)| - | 시즌4 Hosting |
 | How to train your Network? (Cyclical learning rate) | 김규완 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=261%26referrerAllArticles=false%26boardtype=L%26menuid=26)| - | 시즌4 Hosting |
+
 
 
 ### Generalize Learning Strategy (Meta/Metric/Transfer)
@@ -87,6 +90,8 @@ History of hosting and summer/winter school presented at Deepest
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :--: | :--: | :--: |:--: | :--: |
 | 코드를 통한 Sequence Modeling 기초 | 박준모 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=130%26referrerAllArticles=false) | - | 시즌3 Hosting |
+| Attention mechanism 구현 (Tensorflow) | 김재현 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=68%26referrerAllArticles=false%26boardtype=L%26menuid=5) | - | 시즌2 School |
+
 
 
 ### Audio/Speech
