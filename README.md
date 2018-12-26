@@ -1,6 +1,8 @@
 # Hosting-School
 History of hosting and summer/winter school presented at Deepest
 
+------------------------------------------------------------------------------------------------------
+
 ## General Algorithm/Model/Concept
 
 ### General Learning/Model
@@ -36,6 +38,7 @@ History of hosting and summer/winter school presented at Deepest
 | :----------------------------------------------------------: | :--: | :--: |:--: | :--: |
 | Generative model 개요 (VAE 위주) | 김성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=161%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Flow-based generative model (NICE, Real NVP, Glow) | 김성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=161%26referrerAllArticles=false) | - | 시즌4 Hosting |
+| High Resolution Variational Auto Encoder: Beyond Pixelwise Loss| 김재현 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=188%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
 
 
 ### Reinforcement Learning
@@ -45,6 +48,7 @@ History of hosting and summer/winter school presented at Deepest
 | Engineering Reinforcement Learning (피카츄 배구) | 류성원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=170%26referrerAllArticles=false) | - | 시즌3 Hosting |
 
 
+------------------------------------------------------------------------------------------------------
 ## Applications
 ### Vision
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
@@ -55,6 +59,8 @@ History of hosting and summer/winter school presented at Deepest
 | Breaking Illusion on 'PSNR' | 이수영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=163%26referrerAllArticles=false) | - | 시즌4 Hosting |
 | Object Detection (2-stage Detection, Unified Detection, Tracking) | 정찬영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=121%26referrerAllArticles=false) | - | 시즌3 Hosting |
 | Tools for Detection (Online example mining, soft NMS, bootstrapping) | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=131%26referrerAllArticles=false) | - | 시즌3 Hosting |
+| OCR and Single Shot Detection (SSD) | 정찬영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=186%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
+| Weakly-supervised Semantic Segmentation (visualization and localization) | 김은지 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=222%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
 
 
 ### Language
@@ -79,7 +85,8 @@ History of hosting and summer/winter school presented at Deepest
 | Deep Learning for Medical Imaging | 이상길 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=132%26referrerAllArticles=false) | - | 시즌3 Hosting |
 
 
-### 학회 요약/후기
+------------------------------------------------------------------------------------------------------
+## 학회 요약/후기
 | 제목 | 발표자 | 자료링크 | 요약 | 발표시기 |
 | :-----: | :------------------------------------------------: | :------------------------: |:--: | :--: |
 | 2018 ICML 후기 | 허재성 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=171%26referrerAllArticles=false%26boardtype=L%26menuid=26) | - | 시즌4 Hosting |
