@@ -16,7 +16,6 @@ Deeplearning
 ```
 
 ------------------------------------------------------------------------------------------------------
-
 ## 0. Basic Information
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 | -- | :--: | :--: | :--: |
@@ -34,6 +33,7 @@ Deeplearning
 | 캐글에서 메달 따기 (Multi-label Classification) | 이건준 |[link](https://cafe.naver.com/deepestai/287)| 시즌5 Hosting |
 
 
+------------------------------------------------------------------------------------------------------
 ## 1. Modeling and Learning
 ### Few-shot, Semi-supervised, Unsupervised Learning
 | 제목 | 발표자 | 자료링크 | 발표시기 |
@@ -64,8 +64,10 @@ Deeplearning
 ### Sequence Modeling
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 |  -- | :---: | :----: | :--: |
+| 코드를 통한 Sequence Modeling 기초 | 박준모 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=130%26referrerAllArticles=false) | 시즌3 Hosting |
 | RNN plus alpha (Recent overview of RNN architectures) | 이상길 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=213%26referrerAllArticles=false) | 시즌4 Hosting |
 
+------------------------------------------------------------------------------------------------------
 ## 2. Analysis and Optimization
 ### Thought Provoking Issues
 | 제목 | 발표자 | 자료링크 | 발표시기 |
@@ -76,14 +78,19 @@ Deeplearning
 | Rethinking CNNs on Spectral Perspective | 심규홍 | [link](https://cafe.naver.com/deepestai/284) | 시즌5 Hosting |
 
 ### Interpretability
+| 제목 | 발표자 | 자료링크 | 발표시기 |
+|  -- | :---: | :----: | :--: |
 | Explain Deep Learning with Information Bottleneck Theory | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=114%26referrerAllArticles=false%26boardtype=L%26menuid=22) | 시즌3 School |
 
 ### Optimization Technique
+| 제목 | 발표자 | 자료링크 | 발표시기 |
+|  -- | :---: | :----: | :--: |
 | Neuroscience-inspired Deep Learning | 이상길<br/> 장혜미 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=71%26referrerAllArticles=false%26boardtype=L%26menuid=5) | 시즌2 School |
 | The Weight Transport Problem (about BP) | 이상길 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=105%26referrerAllArticles=false) | 시즌3 Hosting |
 | Neo-Backpropagation, Part 2 | 이상길 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=242%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
 
 
+------------------------------------------------------------------------------------------------------
 ## 3. Robustness and Efficiency
 ### Bayesian approach
 | 제목 | 발표자 | 자료링크 | 발표시기 |
@@ -93,25 +100,37 @@ Deeplearning
 | MCMC based Deep learning | 김재명 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=262%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
 | Poisoning Attack Introduction | 장혜미 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=252%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌3 Hosting |
 
-### Efficient Model
+### Model Compression
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 | -- | :--: | :--: | :--: |
 | Efficient Convolutional Neural Network (Squeeze/Mobile/Shuffle Net) | 최상우 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=124%26referrerAllArticles=false) | 시즌3 Hosting |
 | Modular Learning and Routing | 이상길<br/> 정다흰 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=114%26referrerAllArticles=false%26boardtype=L%26menuid=22) | 시즌3 School |
-| Neural Architecture Search | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=3%26menuid=26%26boardtype=L%26articleid=156%26referrerAllArticles=false) | 시즌4 Hosting |
 | Model Compression Overview | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=219%26referrerAllArticles=false) | 시즌4 School |
+
+### Auto ML
+| 제목 | 발표자 | 자료링크 | 발표시기 |
+| -- | :--: | :--: | :--: |
+| Neural Architecture Search | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=3%26menuid=26%26boardtype=L%26articleid=156%26referrerAllArticles=false) | 시즌4 Hosting |
 
 ------------------------------------------------------------------------------------------------------
 ## 4. Applications
-### Vision
+### Vision: Style transfer, Translation
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 | -- | :--: | :--: | :--: |
 | Artistic Style Transfer (with domain translation)| 남가원 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=115%26referrerAllArticles=false) | 시즌3 Hosting |
 | Image Domain Translation Overview (pix2pix- stargan) | 신채훈 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=251%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
+
+### Vision: Super Resolution
+| 제목 | 발표자 | 자료링크 | 발표시기 |
+| -- | :--: | :--: | :--: |
 | Super Resolution Overview (SRCNN, VDSR, ESPCN, SRGAN) | 이수영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=120%26referrerAllArticles=false) | 시즌3 Hosting |
 | Super Resolution Trends (EDSR , MS-LapSRN , VESPCN, ZSSR) | 이주헌 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=125%26referrerAllArticles=false) | 시즌3 Hosting |
 | Breaking Illusion on 'PSNR' | 이수영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=163%26referrerAllArticles=false) | 시즌4 Hosting |
 | Image Enhancement Overview (Denoising, Deblurring, Colorization) | 이주헌 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=26%26boardtype=L%26articleid=163%26referrerAllArticles=false) | 시즌4 Hosting |
+
+### Vision: Detection, Segmentation
+| 제목 | 발표자 | 자료링크 | 발표시기 |
+| -- | :--: | :--: | :--: |
 | Object Detection (2-stage Detection, Unified Detection, Tracking) | 정찬영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=121%26referrerAllArticles=false) | 시즌3 Hosting |
 | Tools for Detection (Online example mining, soft NMS, bootstrapping) | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=131%26referrerAllArticles=false) | 시즌3 Hosting |
 | OCR and Single Shot Detection (SSD) | 정찬영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=186%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
@@ -120,22 +139,24 @@ Deeplearning
 | Ruminating on Imagenet, Pretraining	| 이수영 | [link](https://cafe.naver.com/deepestai/285) | 시즌5 Hosting |
 
 
-### Language
+### Language: Translation, Dialog
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 | -- | :--: | :--: | :--: |
-| 코드를 통한 Sequence Modeling 기초 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 박준모 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=130%26referrerAllArticles=false) | 시즌3 Hosting |
 | Attention mechanism 구현 (Tensorflow) | 김재현 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=68%26referrerAllArticles=false%26boardtype=L%26menuid=5) | 시즌2 School |
 | NMT model overview | 김재현 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=68%26referrerAllArticles=false%26boardtype=L%26menuid=5) | 시즌4 School |
 | Dialog System with Deep Learning | 양소희 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=210%26referrerAllArticles=false) | 시즌4 School |
 
 
-
-### Audio/ Speech
+### Audio: Speech
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 | -- | :--: | :--: | :--: |
 | Audio preprocessing with TTS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 서수빈 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=108%26referrerAllArticles=false) | 시즌3 Hosting |
 | Disentangling Sources of Speech and Synthesis | 송종윤 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=126%26referrerAllArticles=false) | 시즌3 Hosting |
 | Speaker Recognition (traditional and new) | 김장현 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=234%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
+
+### Audio: Music
+| 제목 | 발표자 | 자료링크 | 발표시기 |
+| -- | :--: | :--: | :--: |
 | Introducing Magenta | 최종호 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=237%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
 | Music Generation with MIDI | 최교윤 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=255%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
 | Deep Learning Based Source Separation | 최형석 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=256%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
