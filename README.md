@@ -124,7 +124,6 @@ Task dependent
 | Uncertainty in Deep Learning (Yarin-Gal Thesis) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 김재명 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=133%26referrerAllArticles=false) | 시즌3 Hosting |
 | Bayesian Deep Learning Introduction | 김재명 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=217%26referrerAllArticles=false) | 시즌4 School |
 | MCMC based Deep learning | 김재명 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=262%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
-| Poisoning Attack Introduction | 장혜미 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=252%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌3 Hosting |
 
 ### Model Compression
 | 제목 | 발표자 | 자료링크 | 발표시기 |
