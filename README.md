@@ -4,19 +4,20 @@ History of hosting and summer/winter school presented at Deepest
 ### Category
 ```
 0. Basic information
-Deeplearning
-- Task independent
-  -- Academic driven
-     ㄴ 1. Modeling and Learning
-     ㄴ 2. Optimization and Analysis
-  -- Industry driven
-     ㄴ 3. Robustness and Efficiency
-- Task dependent 
+Task independent
+  - Academic driven
+    ㄴ 1. Modeling and Learning
+    ㄴ 2. Optimization and Analysis
+  - Industry driven
+    ㄴ 3. Robustness and Efficiency
+Task dependent 
   ㄴ 4. Applications
+5. 학회 후기
 ```
 
 ------------------------------------------------------------------------------------------------------
 ## 0. Basic Information
+### Concept
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 | -- | :--: | :--: | :--: |
 | 시각화와 딥러닝 | 김원재 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=69%26referrerAllArticles=false%26boardtype=L%26menuid=5)| 시즌2 School |
@@ -24,6 +25,10 @@ Deeplearning
 | Information Theory Concepts | 김재현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=113%26referrerAllArticles=false)| 시즌3 Hosting |
 | Some Mathematical Concepts for Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 김장현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=219%26referrerAllArticles=false)| 시즌4 School |
 | Gaussian Process and Deep Learning | 김지현 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=214%26referrerAllArticles=false%26boardtype=L%26menuid=29)| 시즌4 School |
+
+### Useful Technique, Tip
+| 제목 | 발표자 | 자료링크 | 발표시기 |
+| -- | :--: | :--: | :--: |
 |Foward and Backward 직접 구현해보기| 김만준 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=122%26referrerAllArticles=false)| 시즌3 Hosting |
 | python 최적화 기법 | 남준오 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=229%26referrerAllArticles=false%26boardtype=L%26menuid=26)| 시즌4 Hosting |
 | Useful python modules (tqdm, click) and pytorch tips | 김원재 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=118%26referrerAllArticles=false%26boardtype=L%26menuid=22)| 시즌4 School |
@@ -31,7 +36,9 @@ Deeplearning
 | Optimization for Human (장비 관련) | 박선규 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=259%26referrerAllArticles=false%26boardtype=L%26menuid=26)| 시즌4 Hosting |
 | How to train your Network? (Cyclical learning rate) | 김규완 |[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=261%26referrerAllArticles=false%26boardtype=L%26menuid=26)| 시즌4 Hosting |
 | 캐글에서 메달 따기 (Multi-label Classification) | 이건준 |[link](https://cafe.naver.com/deepestai/287)| 시즌5 Hosting |
-
+| 딥러닝과 창업 그리고 mann | 류기현 |[link](https://cafe.naver.com/deepestai/312)| 시즌5 Hosting |
+| Github Pages and Jekyll | 정재원 |[link](https://cafe.naver.com/deepestai/319)| 시즌5 Hosting |
+| CUDA optimization | 이중건 |[link](https://cafe.naver.com/deepestai/328)| 시즌5 Hosting |
 
 ------------------------------------------------------------------------------------------------------
 ## 1. Modeling and Learning
@@ -39,6 +46,7 @@ Deeplearning
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 | --- | :--: | :--: | :--: |
 | Deep Metric Learning Overview (Facility Location, Spectral Clustering) | 김지현 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=119%26referrerAllArticles=false)| 시즌3 Hosting |
+| Realistic Evaluation of Semi-Supervised Learning | 김동완 | [link](https://cafe.naver.com/deepestai/326)| 시즌5 Hosting |
 
 ### Transfer, Multi-Task Learning
 | 제목 | 발표자 | 자료링크 | 발표시기 |
@@ -66,6 +74,12 @@ Deeplearning
 |  -- | :---: | :----: | :--: |
 | 코드를 통한 Sequence Modeling 기초 | 박준모 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=130%26referrerAllArticles=false) | 시즌3 Hosting |
 | RNN plus alpha (Recent overview of RNN architectures) | 이상길 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=213%26referrerAllArticles=false) | 시즌4 Hosting |
+| Non-autoregressive Sequence Generation | 김규완 | [link](https://cafe.naver.com/deepestai/322) | 시즌5 Hosting |
+
+### Deep Learning with External Memory
+| 제목 | 발표자 | 자료링크 | 발표시기 |
+|  -- | :---: | :----: | :--: |
+| Memory Network Review (2015-2016) | 박노일 | [link](https://cafe.naver.com/deepestai/320) | 시즌5 Hosting |
 
 ------------------------------------------------------------------------------------------------------
 ## 2. Analysis and Optimization
@@ -75,12 +89,15 @@ Deeplearning
 | Building Machines that That Learn and Think | 김재현|[link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=101%26referrerAllArticles=false)| 시즌3 Hosting |
 | Issues on Current Neural Networks (data structure, inductive bias) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 송종윤 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=233%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
 | 뉴럴넷의 일반화에 관한 논의 | 김장현 | [link](https://cafe.naver.com/deepestai/283) | 시즌5 Hosting |
-| Rethinking CNNs on Spectral Perspective | 심규홍 | [link](https://cafe.naver.com/deepestai/284) | 시즌5 Hosting |
+| 큰 그림: 우리는 어디로 가고 있는가? | 조시현 | [link](https://cafe.naver.com/deepestai/327) | 시즌5 Hosting |
+| Exploring Randomly Wired Neural Networks for Image Recognition | 이윤형 | [link](https://cafe.naver.com/deepestai/330) | 시즌5 Hosting |
+| Ruminating on Imagenet, Pretraining	| 이수영 | [link](https://cafe.naver.com/deepestai/285) | 시즌5 Hosting |
 
-### Interpretability
+### Interpretability Analysis
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 |  -- | :---: | :----: | :--: |
 | Explain Deep Learning with Information Bottleneck Theory | 심규홍 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=114%26referrerAllArticles=false%26boardtype=L%26menuid=22) | 시즌3 School |
+| Rethinking CNNs on Spectral Perspective | 심규홍 | [link](https://cafe.naver.com/deepestai/284) | 시즌5 Hosting |
 
 ### Optimization Technique
 | 제목 | 발표자 | 자료링크 | 발표시기 |
@@ -136,7 +153,7 @@ Deeplearning
 | OCR and Single Shot Detection (SSD) | 정찬영 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=186%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
 | Weakly-supervised Semantic Segmentation | 김은지 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=222%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
 | my painful climb to score>0.80 (Kaggle segmentation 후기) | 이건준 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=245%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
-| Ruminating on Imagenet, Pretraining	| 이수영 | [link](https://cafe.naver.com/deepestai/285) | 시즌5 Hosting |
+| Weakly-supervised Semantic Segmentation | 장동환 | [link](https://cafe.naver.com/deepestai/332) | 시즌5 Hosting |
 
 
 ### Language: Translation, Dialog
@@ -147,12 +164,19 @@ Deeplearning
 | Dialog System with Deep Learning | 양소희 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=29%26boardtype=L%26articleid=210%26referrerAllArticles=false) | 시즌4 School |
 
 
+### Language: Parsing
+| 제목 | 발표자 | 자료링크 | 발표시기 |
+| -- | :--: | :--: | :--: |
+| Unsupervised Constituency Parsing | 손보경 | [link](https://cafe.naver.com/deepestai/331) | 시즌5 Hosting |
+
+
 ### Audio: Speech
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 | -- | :--: | :--: | :--: |
 | Audio preprocessing with TTS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 서수빈 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=108%26referrerAllArticles=false) | 시즌3 Hosting |
 | Disentangling Sources of Speech and Synthesis | 송종윤 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=126%26referrerAllArticles=false) | 시즌3 Hosting |
 | Speaker Recognition (traditional and new) | 김장현 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=234%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
+| Brief Overview of: Speaker Embedding Network & Applications | 박승원 | [link](https://cafe.naver.com/deepestai/325) | 시즌5 Hosting |
 
 ### Audio: Music
 | 제목 | 발표자 | 자료링크 | 발표시기 |
@@ -167,20 +191,26 @@ Deeplearning
 | -- | :--: | :--: | :--: |
 |	Co-Training of Audio and Video Representations &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 김현재 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=224%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌3 Hosting |
 | Overview of VQA (attention, module, relational structure) | 류성원 | [link](https://cafe.naver.com/deepestai/286) | 시즌5 Hosting |
+| RL in vision tasks | 최주영 | [link](https://cafe.naver.com/deepestai/329) | 시즌5 Hosting |
 
+### Robotics, Car
+| 제목 | 발표자 | 자료링크 | 발표시기 |
+| -- | :------------------------------------------------: | :------------------------: | :--: |
+| Self-Driving Cars | 김동완 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=123%26referrerAllArticles=false) | 시즌3 Hosting |
+| Dex-Net: Robust Grasp Planning | 기호건 | [link](https://cafe.naver.com/deepestai/324) | 시즌5 Hosting |
 
 ### Specific Applications
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 | -- | :------------------------------------------------: | :------------------------: | :--: |
-| Self-Driving Cars &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 김동완 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=123%26referrerAllArticles=false) | 시즌3 Hosting |
 | Deep Neural Networks for Youtube Recommendation | 허재성 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=2%26menuid=20%26boardtype=L%26articleid=109%26referrerAllArticles=false) | 시즌3 Hosting |
 | Deep Learning Methods for Protein Structure Prediction | 남준오 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=128%26referrerAllArticles=false) | 시즌3 Hosting |
 | Deep Learning for Medical Imaging | 이상길 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26page=1%26menuid=20%26boardtype=L%26articleid=132%26referrerAllArticles=false) | 시즌3 Hosting |
 | AlphaFold: Using AI for Scientific Discovery | 남준오 | [link](https://cafe.naver.com/deepestai/297) | 시즌5 Hosting |
 | Session-based Recommendation System | 최상우 | [link](https://cafe.naver.com/deepestai/311) | 시즌5 Hosting |
+| dl4eyewear | 최종호 | [link](https://cafe.naver.com/deepestai/321) | 시즌5 Hosting |
 
 ------------------------------------------------------------------------------------------------------
-## 학회 요약/후기
+## 5. 학회 요약/후기
 | 제목 | 발표자 | 자료링크 | 발표시기 |
 | -- | :------------------------------------------------: | :------------------------: | :--: |
 | 2018 ICML 후기 | 허재성 | [link](https://cafe.naver.com/deepestai?iframe_url=/ArticleRead.nhn%3Fclubid=29088238%26articleid=171%26referrerAllArticles=false%26boardtype=L%26menuid=26) | 시즌4 Hosting |
